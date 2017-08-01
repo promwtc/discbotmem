@@ -1,0 +1,15 @@
+{
+  "name": "member-supercharged",
+  "version": "1.0.0",
+  "description": "Member Supercharged",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cvan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "express.js": "^1.0.0"
+  }
+}
